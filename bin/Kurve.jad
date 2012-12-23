@@ -1,0 +1,8 @@
+MIDlet-1: Kurve, Kurve.png, Kurve
+MIDlet-Jar-Size: 27916
+MIDlet-Jar-URL: Kurve.jar
+MIDlet-Name: Kurve
+MIDlet-Vendor: Nejc Saje
+MIDlet-Version: 0.7
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
